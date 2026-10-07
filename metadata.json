@@ -1,0 +1,6 @@
+{
+  "name": "Synthetix Voice & Academy",
+  "description": "Hyper-advanced neural voice intelligence and accelerated skill acquisition academy with real-time speech analytics and mastery curriculum.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
